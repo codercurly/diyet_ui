@@ -4,13 +4,23 @@ diyet takip ui
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter ile geliştirilmiş bir diyet ve sağlık takibi uygulamasıdır. Kullanıcılar, günlük kalori alımını, su tüketimini ve vücut ölçümlerini kolayca takip edebilir.
 
-A few resources to get you started if this is your first Flutter project:
+⸻
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧩 Özellikler (Features)
+	•	📊 Günlük Kalori Takibi: Sabah, öğle, akşam ve ara öğünleri kcal değeri ile gösterir
+	•	🍽️ Yemek Kartları: Öğün detaylarını şık kart bileşenleriyle sunar
+	•	🧍‍♂️ Vücut Ölçümü Paneli: Avatar ile birlikte göğüs ve bel ölçülerini görselleştirir
+	•	💧 Su Takibi: Günlük hedef (3.5L) ve içilen su miktarının yüzdesel göstergesi
+	•	🌙 Responsive UI: Modern ve sade kullanıcı arayüzü
+	•	📱 iOS ve Android uyumlu
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⸻
+
+🚀 Kullanılan Teknolojiler
+	•	Flutter & Dart
+	•	Custom Widgets
+	•	Cupertino & Material Components
+	•	State Management (örneğin Provider varsa yaz)
+	•	Responsive Layout Design
